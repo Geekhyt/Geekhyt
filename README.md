@@ -1,5 +1,5 @@
 ### Hi 👋 你也可以从以下地方找到我
-![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Geekhyt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Geekhyt&show_icons=true)
 - 公众号：前端食堂
 - [掘金：童欧巴](https://juejin.im/user/5a2de8a8f265da4320032fc4/posts/)
 - [知乎：童欧巴](https://www.zhihu.com/people/huo-yi-tong-98/)
