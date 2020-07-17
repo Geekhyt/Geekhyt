@@ -8,4 +8,4 @@
 - [关于我](https://hungryturbo.com/about/)
 
 这是一个终身学习的男人，他在坚持自己热爱的事情，欢迎光临前端食堂，和这个男人一起开心的变胖～
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
