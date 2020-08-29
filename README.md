@@ -1,6 +1,7 @@
 ### Hi 👋 你也可以从以下地方找到我
 
 - 公众号：前端食堂
+- [CSDN：童欧巴](https://blog.csdn.net/weixin_37352936)
 - [掘金：童欧巴](https://juejin.im/user/5a2de8a8f265da4320032fc4/posts/)
 - [知乎：童欧巴](https://www.zhihu.com/people/huo-yi-tong-98/)
 - [LeetCode：童欧巴](https://leetcode-cn.com/u/tongobama/)
