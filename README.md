@@ -1,4 +1,6 @@
-### Hi 👋 你也可以从以下地方找到我
+![qrcode](https://github.com/Geekhyt/front-end-canteen/blob/master/images/qrcode.jpg)
+
+### Hi 👋 欢迎光临，你也可以从以下地方找到我
 
 - 公众号：前端食堂
 - [CSDN：童欧巴](https://blog.csdn.net/weixin_37352936)
