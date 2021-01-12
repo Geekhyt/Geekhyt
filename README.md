@@ -12,4 +12,4 @@
 
 ![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Geekhyt&show_icons=true)
 
-![qrcode](https://github.com/Geekhyt/front-end-canteen/blob/master/images/qrcode.jpg)
+![qrcode](https://github.com/Geekhyt/front-end-canteen/blob/master/images/new-qrcode.jpg)
