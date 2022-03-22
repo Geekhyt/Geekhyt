@@ -12,5 +12,3 @@
 这是一个终身学习的男人，他在坚持自己热爱的事情，欢迎光临前端食堂，和这个男人一起开心的变胖～
 
 ![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Geekhyt&show_icons=true)
-
-![qrcode](https://github.com/Geekhyt/front-end-canteen/blob/master/images/new-qrcode.jpg)
