@@ -9,6 +9,6 @@
 - [微博：童欧巴正在吃](https://www.weibo.com/2771284557/)
 - [关于我](https://mp.weixin.qq.com/s/PIBUvMqhQOEj91fTFkcreA)
 
-这是一个终身学习的男人，他在坚持自己热爱的事情，欢迎光临前端食堂，和这个男人一起开心的变胖～
+这是一个终身学习的男人，他在坚持自己热爱的事情，欢迎光临前端食堂，和这个男人一起开心的"变胖"～
 
 ![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Geekhyt&show_icons=true)
