@@ -10,4 +10,3 @@
 
 你远道而来这世间，想必也是因为热爱吧。
 
-![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Geekhyt&show_icons=true)
